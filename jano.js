@@ -7343,7 +7343,7 @@ jano200.on("ready", () => {
 
 jano.login("");
 jano2.login("");
-jano3.login("");
+jano3.login("OTA0MDExMTk2Mzg1MDk5ODE4.YX1UcA.gi8Nuf7mP198jUnRNT-6AnwgVlM");
 jano4.login("");
 jano5.login("");
 jano6.login("");
